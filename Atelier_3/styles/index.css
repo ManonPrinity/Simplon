@@ -5,7 +5,8 @@
 
 #main { height: 500px; }
 
-p { margin: 25px; margin-top: 50px;  font-size: 20px; color: black; position: absolute;}
+p { margin: 175px; margin-top: 50px;  font-size: 20px; color: black; position: absolute;}
 
 #footer { margin-top: 50px; height: 150px; width: 100%; position: absolute; bottom: 0; position: static; background:linear-gradient(#eee, black); }
-
+	#footer > #footer_top { width: 550px; margin: auto; }
+		#footer > #footer_top > img { display: inline-block; height: 45px; margin: 45px; }
