@@ -1,0 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+
+* { box-sizing: border-box; margin: 0px; padding: 0px; outline: none;}
+html { height: 100%;}
+body { height: 100%; background-image: url("../images/swirl_pattern/swirl_pattern.png"); background-repeat: repeat; background-attachment: fixed; font-size: 0px; font-family: 'Arvo', serif;}
+input { font-family: 'Arvo', serif;}
+ h2, h3, h4, h5, h6 { font-weight: 400; color: #fff;}
+a { text-decoration: none;}
